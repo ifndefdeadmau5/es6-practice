@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack.config.js"],"names":[],"mappings":";;AAAA,OAAO,OAAP,GAAiB;AACb,aAAS,iBADI;AAEb,WAAO,YAAY;AAFN,CAAjB","file":"webpack.config-compiled.js","sourcesContent":["module.exports = {\r\n    devtool: 'eval-source-map',\r\n    entry: __dirname + '/app/main.js'\r\n};"]}

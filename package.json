@@ -1,0 +1,23 @@
+{
+  "name": "es6-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifndefdeadmau5/es6-practice.git"
+  },
+  "author": "trevor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifndefdeadmau5/es6-practice/issues"
+  },
+  "homepage": "https://github.com/ifndefdeadmau5/es6-practice#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "webpack": "^1.13.1"
+  }
+}
